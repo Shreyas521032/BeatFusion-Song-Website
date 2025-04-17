@@ -1,7 +1,6 @@
 # 🎵 BeatFusion: Song Streaming Platform
 
-**Live Demo:** [beat-fusion-song-platform-sk.vercel.app](https://beat-fusion-song-platform-sk.vercel.app/)  
-**GitHub Repository:** [github.com/Shreyas521032/BeatFusion-Song-Website](https://github.com/Shreyas521032/BeatFusion-Song-Website)
+**Deployed Project:** [beat-fusion-song-platform-sk.vercel.app](https://beat-fusion-song-platform-sk.vercel.app/)  
 
 BeatFusion is a responsive music streaming platform built with React. It offers users an intuitive interface to browse and play songs, with features like genre filtering and playlist management.
 
