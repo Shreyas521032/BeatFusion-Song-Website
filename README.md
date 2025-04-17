@@ -78,13 +78,6 @@ BeatFusion-Song-Website/
 
 ---
 
-## 🌐 Deployment
-
-The application is deployed on Vercel and can be accessed at:
-
-👉 [https://beat-fusion-song-platform-sk.vercel.app/](https://beat-fusion-song-platform-sk.vercel.app/)
-
----
 
 ## 📚 Learn More
 
@@ -93,11 +86,6 @@ The application is deployed on Vercel and can be accessed at:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
----
 
 ## 📄 License
 
